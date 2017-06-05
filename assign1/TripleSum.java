@@ -16,14 +16,6 @@
 */
 
 
-/*
-* Name: Russell Snelgrove
-* ID: V00844092
-* Date: 2016-09-20
-* Filename: TripleSum.java
-* Details: CSC 225 Assignment 1
-*/
-
 
 import java.util.Scanner;
 import java.util.Vector;

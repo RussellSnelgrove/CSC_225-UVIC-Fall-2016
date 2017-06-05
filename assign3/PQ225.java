@@ -1,10 +1,3 @@
-/*
-* Name: Russell Snelgrove
-* ID: V00844092
-* Date: 2016-11-06
-* Filename: PQ225.java
-* Details: CSC 225 Assignment 3
-*/
 
 
 
